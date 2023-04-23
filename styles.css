@@ -1,1 +1,19 @@
-
+li{
+color: black;
+font-weight: 800;
+font-size: 24px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: purple;
+    font-size: 48px;
+    font-weight: 800;
+}
+img{
+    margin: auto;
+    display: block;
+    width: 1000px;
+    height: 500px;
+}
